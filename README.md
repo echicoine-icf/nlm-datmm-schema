@@ -1,4 +1,4 @@
-# DATMM Schema
+# DATMM Schema (see [Change Log](CHANGELOG.MD))
 
 This repository tracks released versions of the DATMM schema and their associated source spreadsheets and RDF exports.
 
