@@ -1,0 +1,12 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Python / node / build
+__pycache__/
+*.pyc
+node_modules/
+dist/
+build/

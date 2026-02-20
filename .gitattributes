@@ -1,0 +1,9 @@
+# Treat RDF and JSON as text for diffs
+*.rdf  text diff
+*.ttl  text diff
+*.json text diff
+*.jsonld text diff
+*.md   text diff
+
+# Excel files are binary
+*.xlsx binary
